@@ -23,5 +23,5 @@ def get_citations_needed_report(url):
 
 
 domain ='https://en.wikipedia.org/wiki/History_of_Mexico'
-print(get_citations_needed_count(domain))
+# print(get_citations_needed_count(domain))
 print(get_citations_needed_report(domain))
